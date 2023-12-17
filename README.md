@@ -5,25 +5,36 @@ demonstrate an understanding of the different types of financial data and data w
 ### Task One
 Generate four SQL queries that are meaningful and demonstrate the strength of data warehousing in supporting decision-makers.
 
-1. Query one
 
-![query_1](query_1)
+1. Query one
+   
+Query one compares the attendance of spectators over the years for regular and VIP spectators. 
+
+![query_1](query_1.png)
 
 Rationale
 
 A glance at the numbers over the years indicates a general decline in spectatorship for both regular and VIP spectators since its inception. Figures recorded in 2021, compared to 2016, show a percentage decrease of about 49 percent for regular spectators and 52 percent for VIP spectators. In all, 2020 recorded the lowest turnout for the two categories of spectators. Although the number of spectators has dwindled over the six-year period, the general decline in numbers needs to be investigated and addressed to ensure continued growth and profitability for the company. This query is essential for management to take a decision on ways on improving attendance during events.
 
+
+
 2. Query two
-   
-![query_2](query_2)
+
+Query two explores the amount of money lost through tickets that had to be refunded. 
+
+
+![query_2](query_2.png)
 
 Rationale
 
 The cost of returning tickets affects not only monetary costs but also labour time costs. Therefore, the company needs to track the number of tickets that have had to be returned over the years.The data reveals that in 2021, 13,720,944 pounds had to be returned, representing about 24% of the total number of tickets sold. This figure is staggering and erodes the profitability of the company and must be addressed to reduce it significantly. The company must take steps to investigate the reasons why many tickets had to be returned and address them immediately.
 
+
 3.  Query three
 
-![query_3](query_3)
+Query three takes a look and compares merchandise that is sold online and at events. 
+
+![query_3](query_3.png)
 
 Rationale
 
@@ -36,7 +47,10 @@ This phenomenon applies to the stocking and sale of merchandise both online and 
 
 4.  Query four
 
-![query_4](query_4)
+Query four takes a look at the demography of users.
+
+
+![query_4](query_4.png)
 
 Rationale
 
@@ -49,6 +63,10 @@ The company must take steps to create and improve inclusivity in its player-cont
 
 
 
+### Task Two
+Generate meaningful insights using Tableau.
+
+Note: Although the graphs were generated with Tableau, these are screenshots from the powerpoint presentation. 
 
 
 
