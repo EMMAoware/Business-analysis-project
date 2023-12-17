@@ -71,10 +71,13 @@ Generate meaningful insights using Tableau.
 Note: Although the graphs were generated with Tableau, these are screenshots from the powerpoint presentation. 
 
 1. Two-year forecast of game sales
+   
 ![Tableau_visuals_3](Tableau_visuals_3.jpg)
 
 
-2. Interactive dashboard generated with year as the filter
+2. Interactive dashboard generated with year as the filter in Tableau
+   
 ![Tableau_Visuals_1](Tableau_Visuals_1.jpg) 
+
 
 
